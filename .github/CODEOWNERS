@@ -1,0 +1,25 @@
+# Raíz del proyecto y configuraciones globales
+* @ujiroboticsteam
+
+# Brazo robótico
+/arm/               @UJI-ROBOTICS-TEAM/ERC-arm
+/docs/arm/          @UJI-ROBOTICS-TEAM/ERC-arm
+
+# Dron
+/drone/             @UJI-ROBOTICS-TEAM/ERC-drone
+/docs/drone/        @UJI-ROBOTICS-TEAM/ERC-drone
+
+# Electrónica
+/electronics/       @UJI-ROBOTICS-TEAM/ERC-electronics
+/docs/electronics/  @UJI-ROBOTICS-TEAM/ERC-electronics
+
+# Software general y GUI
+/software/          @UJI-ROBOTICS-TEAM/ERC-software
+/docs/software/     @UJI-ROBOTICS-TEAM/ERC-software
+
+# Subsistemas (ESP32 / Arduino)
+/subsystems/        @UJI-ROBOTICS-TEAM/ERC-subsystems
+/docs/subsystems/   @UJI-ROBOTICS-TEAM/ERC-subsystems
+
+# Documentación de mecánica (abierta a todos los miembros activos)
+/docs/mechanics/    @UJI-ROBOTICS-TEAM/all-members
